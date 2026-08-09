@@ -1,2 +1,2 @@
 # PredictingManifestAstigmatismKC
-Research use only. This repository contains code developed for research purposes.
+Research use only. This repository contains code developed for research purposes and has not been validated for clinical decision-making. The software should not be used to diagnose, treat, or make clinical decisions regarding individual patients. The analysis was performed using keratometry data obtained from Pentacam corneal tomography. The underlying clinical dataset is not included in this repository due to data governance and patient confidentiality restrictions.
